@@ -1,0 +1,11 @@
+---
+title: "Curriculum Vitae"
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+<p>This is where a CV should be posted for Kyle Conniff.  However, the CV used for grad school applications is currently missing in action (read: did not look very hard), and does not include very much detail anyways.  Plus, practicing creating new pages is more fun than uploading some boring sheet anyways.  This will be updated later.</p>
+
+
+
+

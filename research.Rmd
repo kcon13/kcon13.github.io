@@ -1,0 +1,63 @@
+---
+title: "Research"
+site: distill::distill_website
+---
+
+<p>
+My research is currently focused on developing statistical methods for censored survival data.  My research focus iS driven by an application to Native American health care systems and disparities.  My first dissertation problem is to extend time-dependent AUROC curves to the multivariate case, which is necessary for my second dissertation project: calibrating risk sets for electronic health records data.  On the side, I am (lightly) working on sports analytics for ranking Ultimate teams and identifying the most useful metrics for predicting the winner of a game.
+</p>
+
+
+<h1>
+Collaborations
+</h1>
+<h4>
+Center for American Indian and Alaskan Native Health (<a href="https://coloradosph.cuanschutz.edu/research-and-practice/centers-programs/caianh">Link</a>)
+</h4>
+<p>
+The center is currently working on understanding dementia in AIAN populations via two main pathways and two main outcomes.  On the pre-dementia end, the goal is to understand what sociodemographic factors are associated with onset of dementia and what modifiable risk factors influence the onset of dementia, with a special emphasis on the relationship between diabetes and dementia.  After developing dementia, the goal is to understand if (and how) health service utilization changes, what is most effective, and the resulting costs.
+</p>
+
+
+
+<h1>
+Research Interests
+</h1>
+<p>
+My research interests are primarily driven by the areas of application and/or in applied directions.  Listed below are my main statistical areas of interest with reasons/applications sub-listed below the topics:
+<ul>
+  <li>Survival Analysis</li>
+    <ul>
+    <li>Health disparities</li>
+    <li>Native American health</li>
+    <li>Health care costs</li>
+    <li>Electronic health records</li>
+  </ul>
+  <li>Sports Stats</li>
+    <ul>
+    <li>Rankings</li>
+    <li>Outcome Prediciton</li>
+    <li>Strategy Development</li>
+    <li>Strategy Analysis</li>
+    <li>Player Development</li>
+  </ul>
+  <li>Pedagogy</li>
+    <ul>
+      <li>Remote Teaching</li>
+      <li>Flipped Classrooms</li>
+      <li>Using internet resources to improve learning</li>
+      <li>Developing introductory material for non-stats students taking stats courses</li>
+      <li>Developing applications for aiding and teaching students of statistics</li>
+  </ul>
+  <li>Time series</li>
+    <ul>
+      <li>Concussions</li>
+      <li>Head Trauma</li>
+      <li>Stress</li>
+      <li>Neuroimaging</li>
+      <li>Sleep</li>
+  </ul>
+</ul>
+</p>
+
+

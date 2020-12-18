@@ -1,0 +1,51 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "What is this website and why does it exist?\n",
+      "author": [],
+      "contents": "\n\nThis is the personal website for Kyle Conniff. Information about his research and teaching histories can be found under the similarly labeled pages. See below for what can be found under each of the pages.\n\n\nHome\n\n\n\nPronunciation Videos\n\n\nEducational Background\n\n\nCurrent position\n\n\nCurrent endevours\n\n\nCV\n\n\n\nContact Information\n\n\nResearch\n\n\n\nCurrent Research Projects\n\n\nCurrent Collaborations\n\n\nPast Collaborations\n\n\nResearch Interests\n\n\nPublications\n\n\nTeaching\n\n\n\nCurrent Courses\n\n\nLinks to Course Material\n\n\nPast Courses Taught\n\n\nLinks to Course Syllabi\n\n\nLinks to Materials for Teaching Courses\n\n\nPersonal\n\n\n\nSome of the things Kyle does when not teaching or researching\n\n\n\n\n",
+      "last_modified": "2020-12-14T18:00:12-08:00"
+    },
+    {
+      "path": "cv.html",
+      "title": "Curriculum Vitae",
+      "author": [],
+      "date": "`r Sys.Date()`",
+      "contents": "\n\nThis is where a CV should be posted for Kyle Conniff. However, the CV used for grad school applications is currently missing in action (read: did not look very hard), and does not include very much detail anyways. Plus, practicing creating new pages is more fun than uploading some boring sheet anyways. This will be updated later.\n\n\n\n\n",
+      "last_modified": "2020-12-14T18:00:12-08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Home",
+      "description": "Welcome to Kyle Conniff's website!\n",
+      "author": [],
+      "contents": "\n\nI am a Ph.D. student of statistics at the University of California Irvine (UCI). I am working under the direction of Dan Gillen, Ph.D in censored suvival data for Native American health care. I received a Bachelor’s of Arts from St. Norbert College (SNC) in mathematics in 2016. I strive to teach and aid non-statistical faculty in their teaching of statistical thinking.\n\n\nCurriculum Vitae\n\n\nEducation:\n\n\n\n\n\nB.A., in Mathematics, St. Norbert College, De Pere, WI, USA (2016)\n\n\nHonors and Awards:\n\n\nNational Science Foundation Graduate Research Fellowship Program (2017)\n\n\nEugene Cota-Robles Fellowship Recipient (2016)\n\n\nDiversity Fellowship Recipient (2016)\n\n\nMcNair Scholar (2013)\n\n\nCertificates:\n\n\nCourse Design Certificate Program (2020)\n\n\n\n\n",
+      "last_modified": "2020-12-14T18:00:13-08:00"
+    },
+    {
+      "path": "personal.html",
+      "title": "Who is Kyle Conniff?",
+      "description": "If you want to know more about Kyle the human, read on!\n",
+      "author": [],
+      "contents": "\n\nBeyond teaching and academics, Kyle has quite a few hobbies that fall into two big categories: sports and geeks.\n\n\nSports\n\n\n He currently plays professional Ultimate for the Los Angeles Aviators. As an undergraduate, he studied abroad in Perth, Australia where he learned how to play ultimate. Since he was abroad, Kyle spent way too much getting better at ultimate. After returning to the states, he immediately tried out for a pro team. It took 3 tries, but he first made the Aviators in 2019 and has played with them since. To the left is a photo of Kyle playing in his first Game of the Week in front of an international audience (PC: Meg Hofner). This particular throw ended up making the top plays of the week (well, technically, the catch made the top plays of the week). The video is below.\n\n\n\n\n Kyle has also been an active juggler since 2009. His best friend at the time was one of the world’s best jugglers and they spent many hours every week working on the ultimate craft for introverts. The picture to the right (PC: Casey Rentmeester) is a classic 5 club cascade (the normal juggling pattern for an odd number of objects). Before moving to California, Kyle attended a few juggling conventions annually and even prepared to participate in a technical juggling competition. Although he didn’t compete, Kyle trained for 3 hours a day to prepare for competition. At the time, his personal records are 9 balls, 7 rings, and 6 clubs. Nowadays, Kyle juggles for about an hour a week split across 3-4 days. If he juggles with other people, he much prefers to work on passing patterns (2 or more people juggling together by throwing objects back and forth) with 6, 7, and 8 clubs, or to play combat with 3 clubs.\n\n\nGeeks\n\n\nWhen Kyle is recovering from his more active endeavors, he watches a lot of anime. His favorites are old-school: Yu Yu Hakusho and Rurouni Kenshin. However, he has watched a lot of good anime and definitely recommends:\n\nSoul Eater\n\n\nToradora\n\n\nLove, Chuunibyou & Other Delusions\n\n\nMy Hero Academia\n\n\nSeven Deadly Sins.\n\n\nSticking with the theme of escapism, Kyle loves to read science fiction, fantasy, and dystopian future novels in the young adult genre. He especially loves 3-10 book series where he can feel as though he has a connection with the main characters. Some of his favorites include:\n\nThe Name of the Wind (by Patrick Rothfuss)\n\n\nThe Hunger Games (by Suzanne Collins)\n\n\nThe Novice (by Taran Matharu)\n\n\nGraceling (by Kristin Cashore)\n\n\nAn Ember in the Ashes (by Sabaa Tahir)\n\n\nKyle’s only vices come from having a bit of a card collection problem (Yu-Gi-Oh!, Yu Yu Hakusho, Original Pokemon sets, and original Digimon sets…so far), and playing a relatively small and selective set of video games. Well, he might also be very addicted to sugar.\n\n\nMore information to come when Kyle is finally able to adopt the objectively cutest animal ever (the exact animal is TBD, but it will undoubtedly be the best and cutest).\n\n\n\n\n",
+      "last_modified": "2020-12-14T18:00:13-08:00"
+    },
+    {
+      "path": "research.html",
+      "title": "Research",
+      "author": [],
+      "contents": "\n\nMy research is currently focused on developing statistical methods for censored survival data. My research focus iS driven by an application to Native American health care systems and disparities. My first dissertation problem is to extend time-dependent AUROC curves to the multivariate case, which is necessary for my second dissertation project: calibrating risk sets for electronic health records data. On the side, I am (lightly) working on sports analytics for ranking Ultimate teams and identifying the most useful metrics for predicting the winner of a game.\n\n\nCollaborations\n\n\nCenter for American Indian and Alaskan Native Health (Link)\n\n\nThe center is currently working on understanding dementia in AIAN populations via two main pathways and two main outcomes. On the pre-dementia end, the goal is to understand what sociodemographic factors are associated with onset of dementia and what modifiable risk factors influence the onset of dementia, with a special emphasis on the relationship between diabetes and dementia. After developing dementia, the goal is to understand if (and how) health service utilization changes, what is most effective, and the resulting costs.\n\n\nResearch Interests\n\n\nMy research interests are primarily driven by the areas of application and/or in applied directions. Listed below are my main statistical areas of interest with reasons/applications sub-listed below the topics:\n\nSurvival Analysis\n\n\nHealth disparities\n\n\nNative American health\n\n\nHealth care costs\n\n\nElectronic health records\n\n\nSports Stats\n\n\nRankings\n\n\nOutcome Prediciton\n\n\nStrategy Development\n\n\nStrategy Analysis\n\n\nPlayer Development\n\n\nPedagogy\n\n\nRemote Teaching\n\n\nFlipped Classrooms\n\n\nUsing internet resources to improve learning\n\n\nDeveloping introductory material for non-stats students taking stats courses\n\n\nDeveloping applications for aiding and teaching students of statistics\n\n\nTime series\n\n\nConcussions\n\n\nHead Trauma\n\n\nStress\n\n\nNeuroimaging\n\n\nSleep\n\n\n\n\n",
+      "last_modified": "2020-12-14T18:00:14-08:00"
+    },
+    {
+      "path": "teaching.html",
+      "title": "Teaching",
+      "author": [],
+      "contents": "\n\nUh oh, this site is under construction. Please check back after Kyle has done some teaching.\n\n\nKyle has started developing two resources for teaching introductory statistics. The original ideas and (much appreciated) guidance come from Dr. Mine Dogucu. The goal is to turn these projects into useful tools for teaching students the basics of statistics.\n\nR Package\n\n\nR Shiny\n\n\nThe two projects currently work together to help students calculate z-scores, t-scores, quantiles, and p-values from the information that will be given in a typical introductory question. There is also an option to visualize the distribution and area to which the probability corresponds. The projects are only in the very formative stages, with many more ideas for adding to them. Some of the goals include:\n\nGuide for choosing the right test\n\n\nGuide for using the right formula\n\n\nStep-by-step solutions for the z- and t-score questions\n\n\nRejection regions on visualization plot\n\n\nMultiple plots for thinking about conversions from “original units” to “standard units”\n\n\nExpanding to two-sample cases\n\n\nExpanding to other introductory topics\n\n\nMany more ideas to be sorted through\n\n\n\n\n",
+      "last_modified": "2020-12-14T18:00:14-08:00"
+    }
+  ],
+  "collections": []
+}

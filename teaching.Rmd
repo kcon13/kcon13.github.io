@@ -1,0 +1,30 @@
+---
+title: "Teaching"
+
+site: distill::distill_website
+---
+
+
+<p>Uh oh, this site is under construction.  Please check back after Kyle has done some teaching.</p>
+
+
+<p>Kyle has started developing two resources for teaching introductory statistics.  The original ideas and (much appreciated) guidance come from <a href="https://mdogucu.ics.uci.edu/">Dr. Mine Dogucu</a>.  The goal is to turn these projects into useful tools for teaching students the basics of statistics.
+
+<ul>
+<li><a href="https://github.com/stats295r-fa20/package-group13">R Package</a></li>
+<li><a href="https://github.com/stats295r-fa20/shiny-group13">R Shiny</a></li>
+</ul>
+</p>
+
+<p>The two projects currently work together to help students calculate z-scores, t-scores, quantiles, and p-values from the information that will be given in a typical introductory question.  There is also an option to visualize the distribution and area to which the probability corresponds.  The projects are only in the very formative stages, with many more ideas for adding to them.  Some of the goals include:
+<ol>
+<li>Guide for choosing the right test</li>
+<li>Guide for using the right formula</li>
+<li>Step-by-step solutions for the z- and t-score questions</li>
+<li>Rejection regions on visualization plot</li>
+<li>Multiple plots for thinking about conversions from "original units" to "standard units"</li>
+<li>Expanding to two-sample cases</li>
+<li>Expanding to other introductory topics</li>
+<li>Many more ideas to be sorted through</li>
+</ol>
+</p>

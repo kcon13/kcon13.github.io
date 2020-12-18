@@ -1,0 +1,70 @@
+---
+title: "Who is Kyle Conniff?"
+description: |
+  If you want to know more about Kyle the human, read on!
+site: distill::distill_website
+---
+
+
+<p>
+Beyond teaching and academics, Kyle has quite a few hobbies that fall into two big categories: sports and geeks.  
+</p>
+
+<h1>
+Sports
+</h1>
+
+<p>
+<img id="ultimatepic" src="AviatorsPic.jpg" alt="Kyle throwing a forehand for a score against  the San Jose Spiders.  PC: Meg Hofner" style="float:left;width:175px;height:auto;padding-right:5px"/>
+He currently plays professional <b><u>Ultimate</u></b> for the <a href="https://theaudl.com/aviators">Los Angeles Aviators</a>.  As an undergraduate, he studied abroad in Perth, Australia where he learned how to play ultimate.   Since he was abroad, Kyle spent way too much getting better at ultimate.  After returning to the states, he immediately tried out for a pro team.  It took 3 tries, but he first made the Aviators in 2019 and has played with them since.  To the left is a photo of Kyle playing in his first Game of the Week in front of an international audience (PC: <a href="https://meghofner.smugmug.com/browse">Meg Hofner</a>).  This particular throw ended up making the top plays of the week (well, technically, the catch made the top plays of the week).  The video is below.
+</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gJMLGKHYfbI?start=99" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+<p>
+<img id="jugglingpic" src="5clubsSNC.jpg" alt="Kyle juggling 5 clubs in an open quad.  PC: Casey Rentmeester" style="float:right;width:250px;height:auto;padding-left:5px"/>
+Kyle has also been an active <b><u>juggler</u></b> since 2009.  His best friend at the time was one of the world's best jugglers and they spent many hours every week working on the ultimate craft for introverts.    The picture to the right (PC: <a href = "https://www.youtube.com/c/meesta11/featured">Casey Rentmeester</a>) is a classic 5 club cascade (the normal juggling pattern for an odd number of objects).  Before moving to California, Kyle attended a few juggling conventions annually and even prepared to participate in a technical juggling competition.  Although he didn't compete, Kyle trained for 3 hours a day to prepare for competition.  At the time, his personal records are 9 balls, 7 rings, and 6 clubs.  Nowadays, Kyle juggles for about an hour a week split across 3-4 days.  If he juggles with other people, he much prefers to work on passing patterns (2 or more people juggling together by throwing objects back and forth) with 6, 7, and 8 clubs, or to play combat with 3 clubs.
+</p>
+
+
+<h1>
+Geeks
+</h1>
+
+<p>
+When Kyle is recovering from his more active endeavors, he watches a lot of <b><u>anime</u></b>.  His favorites are old-school: <em>Yu Yu Hakusho</em> and <em>Rurouni Kenshin</em>.  However, he has watched a lot of good anime and definitely recommends:
+<ul>
+  <li><em>Soul Eater</em></li>
+  <li><em>Toradora</em></li>
+  <li><em>Love, Chuunibyou & Other Delusions</em></li>
+  <li><em>My Hero Academia</em></li>
+  <li><em>Seven Deadly Sins</em>.</li>
+</ul>
+</p>
+
+<p>
+Sticking with the theme of escapism, Kyle loves to <b><u>read</u></b> science fiction, fantasy, and dystopian future novels in the young adult genre.  He especially loves 3-10 book series where he can feel as though he has a connection with the main characters.  Some of his favorites include:
+<ul>
+  <li><em>The Name of the Wind</em> (by <a href="https://www.patrickrothfuss.com/content/index.asp">Patrick Rothfuss</a>)</li>
+  <li><em>The Hunger Games</em> (by <a href="http://www.suzannecollinsbooks.com/">Suzanne Collins</a>)</li>
+  <li><em>The Novice</em> (by <a href="https://authortaranmatharu.com/">Taran Matharu</a>)</li>
+  <li><em>Graceling</em> (by <a href="http://kristincashore.blogspot.com/">Kristin Cashore</a>)</li>
+  <li><em>An Ember in the Ashes</em> (by <a href="https://www.sabaatahir.com/">Sabaa Tahir</a>)</li> 
+</ul>
+<!-- - The Name of the Wind (by Patrick Rothfuss)
+- The Hunger Games (by Suzanne Collins)
+- The Novice (by Taran Matharu)
+- Graceling (by Kristin Cashore)
+-  An Ember in the Ashes (by Sabaa Tahir).-->
+</p>
+
+<p>
+Kyle's only vices come from having a bit of a <b><u>card collection</u></b> problem (Yu-Gi-Oh!, Yu Yu Hakusho, Original Pokemon sets, and original Digimon sets...so far), and playing a relatively small and selective set of video games.  Well, he might also be very addicted to sugar.
+</p>
+
+<p>
+More information to come when Kyle is finally able to adopt the objectively cutest animal ever (the exact animal is TBD, but it will undoubtedly be the best and cutest).
+</p>
+
