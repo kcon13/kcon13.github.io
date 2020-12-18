@@ -3,5 +3,5 @@
 .RData
 .Ruserdata
 .DS_Store
-/*site_libs
+docs/site_libs/
 *.Rproj
