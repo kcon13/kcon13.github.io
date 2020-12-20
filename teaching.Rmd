@@ -1,30 +1,70 @@
 ---
 title: "Teaching"
-
+description: |
+  Uh oh, this site is under construction.  Please check back after Kyle has done some teaching.
 site: distill::distill_website
 ---
 
+<div>
+  <h3>Teaching Assistant</h3>
+  <p>
+    <ul>
+      <li><a href="http://catalogue.uci.edu/allcourses/stats/">STATS 7 Basic Statistics</a>.(Summer 2020)  
+      <ul><li>Professor: Mary Ryan</li></ul></li>
+      <li>STATS 7 Basic Statistics (Summer 2018).  
+      <ul><li>Professor: <a href="https://profiles.sc-ctsi.org/michelle.nuno">Dr. Michelle Nuno</a></li></ul></li></li>
+    </ul>
+  </p>
+    
+  <h3>Guest Teaching</h3>
+  <p>
+    <ul>
+      <li>Quantitative Methods for Public Policy at Liberty University (November 2020)
+      <ul>
+        <li>Professor: <a href="https://www.liberty.edu/government/faculty/kahlib-fischer/">Dr. Kahlib Fischer</a></li>
+        <li>Discussion on the process of question development and preparing for data collection.</li>
+      </ul>
+      </li>
+      <li>Quantitative Methods for Public Policy at Liberty University (December 2020)
+      <ul>
+        <li>Professor: Dr. Kahlib Fischer</li>
+        <li>Discussion on the process of performing a statistical analysis.</li>
+      </ul>
+      </li>
+    </ul>
+  </p>
+  
+  <h3>Teaching</h3>
+  <p>
+    <ul>
+      <li>None yet</li>
+    </ul>
+  </p>
+  
+</div>
 
-<p>Uh oh, this site is under construction.  Please check back after Kyle has done some teaching.</p>
 
+<div>
+<h3>Additional Teaching Endeavors</h3>
+  <p>Kyle has started developing two resources for teaching introductory statistics.  The original ideas and (much appreciated) guidance come from <a href="https://mdogucu.ics.uci.edu/">Dr. Mine Dogucu</a>.  The goal is to turn these projects into useful tools for teaching students the basics of statistics.
+    <ul style="list-style-type:none;">
+      <li><a href="https://github.com/kcon13/introTeach">R Package</a></li>
+      <li><a href="https://github.com/kcon13/introTeach-shiny">R Shiny</a></li>
+    </ul>
+  </p>
+</div>
 
-<p>Kyle has started developing two resources for teaching introductory statistics.  The original ideas and (much appreciated) guidance come from <a href="https://mdogucu.ics.uci.edu/">Dr. Mine Dogucu</a>.  The goal is to turn these projects into useful tools for teaching students the basics of statistics.
-
-<ul>
-<li><a href="https://github.com/stats295r-fa20/package-group13">R Package</a></li>
-<li><a href="https://github.com/stats295r-fa20/shiny-group13">R Shiny</a></li>
-</ul>
-</p>
-
-<p>The two projects currently work together to help students calculate z-scores, t-scores, quantiles, and p-values from the information that will be given in a typical introductory question.  There is also an option to visualize the distribution and area to which the probability corresponds.  The projects are only in the very formative stages, with many more ideas for adding to them.  Some of the goals include:
-<ol>
-<li>Guide for choosing the right test</li>
-<li>Guide for using the right formula</li>
-<li>Step-by-step solutions for the z- and t-score questions</li>
-<li>Rejection regions on visualization plot</li>
-<li>Multiple plots for thinking about conversions from "original units" to "standard units"</li>
-<li>Expanding to two-sample cases</li>
-<li>Expanding to other introductory topics</li>
-<li>Many more ideas to be sorted through</li>
-</ol>
-</p>
+<div>
+  <p>The two projects currently work together to help students calculate z-scores, t-scores, quantiles, and p-values from the information that will be given in a typical introductory question.  There is also an option to visualize the distribution and area to which the probability corresponds.  The projects are only in the very formative stages, with many more ideas for adding to them.  Some of the goals include:
+    <ol>
+      <li>Guide for choosing the right test</li>
+      <li>Guide for using the right formula</li>
+      <li>Step-by-step solutions for the z- and t-score questions</li>
+      <li>Rejection regions on visualization plot</li>
+      <li>Multiple plots for thinking about conversions from "original units" to "standard units"</li>
+      <li>Expanding to two-sample cases</li>
+      <li>Expanding to other introductory topics</li>
+      <li>Many more ideas to be sorted through</li>
+    </ol>
+  </p>
+</div>

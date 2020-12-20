@@ -40,6 +40,20 @@ Research
 </p>
 
 <h1>
+Tutoring
+</h1>
+<p>
+    <ul>
+    <li>Overiew of Kyle as a tutor</li>
+    <li>Tutoring Resume</li>
+    <li>Recent Tutoring Work</li>
+    <li>Rate</li>
+    <li>Additional Information</li>
+  </ul>
+</p>
+
+
+<h1>
 Teaching
 </h1>
 <p>
@@ -49,6 +63,7 @@ Teaching
     <li>Past Courses Taught</li>
     <li>Links to Course Syllabi</li>
     <li>Links to Materials for Teaching Courses</li>
+    <li>Additional Teaching Resources</li>
   </ul>
 </p>
 

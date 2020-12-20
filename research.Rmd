@@ -4,7 +4,7 @@ site: distill::distill_website
 ---
 
 <p>
-My research is currently focused on developing statistical methods for censored survival data.  My research focus iS driven by an application to Native American health care systems and disparities.  My first dissertation problem is to extend time-dependent AUROC curves to the multivariate case, which is necessary for my second dissertation project: calibrating risk sets for electronic health records data.  On the side, I am (lightly) working on sports analytics for ranking Ultimate teams and identifying the most useful metrics for predicting the winner of a game.
+My research is currently focused on developing statistical methods for censored survival data.  My research focus is driven by an application to Native American health care systems and health disparities.  My first dissertation problem is to extend time-dependent AUROC curves to the multivariate case, which is necessary for my second dissertation project: calibrating risk sets for interval censoring in electronic health records data.  On the side, I am (lightly) working on sports analytics for ranking Ultimate teams and identifying the most useful metrics for predicting the winner of a game.
 </p>
 
 
