@@ -23,7 +23,7 @@ site: distill::distill_website
   <h3>Resume</h3>
   <ul>
     <li class="job-title"><strong>Independent Tutor</strong> (2012-Current)
-      <ul>
+      <ul >
       <li class="job-description">I've met 1-on-1 with students for several years.  I've worked completely independently with students (UCI page below), as well as through tutoring systems (the second and third links below).
         <ul>
           <li><a href="https://www.stat.uci.edu/tutoring-resources/">UCI Stats Department</a></li>
@@ -33,15 +33,15 @@ site: distill::distill_website
         </li>
       </ul>
       </li>
+          <li class="job-title"><strong>Introduction to Statistics Teaching Assistant</strong> (2018, 2020)
+      <ul>
+        <li class="job-description">Worked with the teacher to help teach introductory statistics during the shortened summer sessions.  I taught review sessions, created test questions, checked homework and lab assignments, and mostly helped answer student questions about the material, homeworks, and labs.</li>
+      </ul></li>
     <li class="job-title"><strong>St. Norbert College Multicultural Center Tutor</strong> (2012-2013)
       <ul>
         <li class="job-description">Similar to holding office hours, I sat in a large room and helped my multicultural peers with all levels of math from algebra through multivariate calculus, introductory economics, writing/editing, and a few other introductory classes I was also taking. </li>
       </ul>
     </li>
-    <li class="job-title"><strong>Introduction to Statistics Teaching Assistant</strong> (2018, 2020)
-      <ul>
-        <li class="job-description">Worked with the teacher to help teach introductory statistics during the shortened summer sessions.  I taught review sessions, created test questions, checked homework and lab assignments, and mostly helped answer student questions about the material, homeworks, and labs.</li>
-      </ul></li>
     <li class="job-title"><strong>Boy's & Girl's Club Tutor</strong> (2012-2013)
       <ul>
         <li class="job-description">I helped students at an undisclosed, minority-serving middle school (6-8th grades) work through all types of math questions.</li>

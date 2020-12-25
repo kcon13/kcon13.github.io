@@ -2005,14 +2005,20 @@ code span.wa { color: #545454; font-weight: bold; font-style: italic; } /* Warni
   <!--radix_placeholder_site_in_header-->
   <style type="text/css">
   .distill-site-nav{
-    background-color:gray;
+    background-color:rgb(255,102,179);
   }
   
   
-  
+  .distill-site-header {
+    --title-size:       18px;    
+    --text-color:       #ff414b; /* edited */
+    --text-size:        15px;
+    --hover-color:      #dd424c; /* edited */
+    --bkgd-color:       #ffd8db; /* edited */
+  }
   
   .distill-site-footer {
-    background-color:gray;
+    background-color:rgb(255,102,179);
     position: static;
     padding-left: 10px;
     padding-top: 0;
@@ -2025,7 +2031,11 @@ code span.wa { color: #545454; font-weight: bold; font-style: italic; } /* Warni
     margin-bottom:10;
   }
   
-  
+  .distill-site-description {
+      font-family: helvetica;
+      font-weight: normal;
+      font-size : 14px;
+  }
   
   h1 {
   
@@ -2060,6 +2070,12 @@ code span.wa { color: #545454; font-weight: bold; font-style: italic; } /* Warni
       padding:0;
   }
   
+  p {
+    font-family: helvetica ;
+        font-weight: normal;
+        font-size : 12px;
+  }
+  
   .name {
     float: right;
   }
@@ -2074,12 +2090,37 @@ code span.wa { color: #545454; font-weight: bold; font-style: italic; } /* Warni
     padding-left: 5px;
   }
   
+  .job-description {
+    list-style-type:none;
+    font-family: helvetica;
+      font-weight: normal;
+      font-size : 12px;
+  }
+  
+  .job-title{
+      font-family: 'Source Sans Pro', Arial Black;
+              font-weight : 200;
+              font-size : 14px;
+  }
   
   ul li { 
     padding-top: 0px;
     padding-bottom: 0px;
     margin-bottom: 0px;
     margin-top: 1px;
+    font-family: helvetica ;
+        font-weight: normal;
+        font-size : 12px;
+  }
+  
+  ol li { 
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-top: 1px;
+    font-family: helvetica ;
+        font-weight: normal;
+        font-size : 12px;
   }
   
   

@@ -2005,14 +2005,20 @@ code span.wa { color: #545454; font-weight: bold; font-style: italic; } /* Warni
   <!--radix_placeholder_site_in_header-->
   <style type="text/css">
   .distill-site-nav{
-    background-color:gray;
+    background-color:rgb(255,102,179);
   }
   
   
-  
+  .distill-site-header {
+    --title-size:       18px;    
+    --text-color:       #ff414b; /* edited */
+    --text-size:        15px;
+    --hover-color:      #dd424c; /* edited */
+    --bkgd-color:       #ffd8db; /* edited */
+  }
   
   .distill-site-footer {
-    background-color:gray;
+    background-color:rgb(255,102,179);
     position: static;
     padding-left: 10px;
     padding-top: 0;
@@ -2025,7 +2031,11 @@ code span.wa { color: #545454; font-weight: bold; font-style: italic; } /* Warni
     margin-bottom:10;
   }
   
-  
+  .distill-site-description {
+      font-family: helvetica;
+      font-weight: normal;
+      font-size : 14px;
+  }
   
   h1 {
   
@@ -2060,6 +2070,12 @@ code span.wa { color: #545454; font-weight: bold; font-style: italic; } /* Warni
       padding:0;
   }
   
+  p {
+    font-family: helvetica ;
+        font-weight: normal;
+        font-size : 12px;
+  }
+  
   .name {
     float: right;
   }
@@ -2074,12 +2090,37 @@ code span.wa { color: #545454; font-weight: bold; font-style: italic; } /* Warni
     padding-left: 5px;
   }
   
+  .job-description {
+    list-style-type:none;
+    font-family: helvetica;
+      font-weight: normal;
+      font-size : 12px;
+  }
+  
+  .job-title{
+      font-family: 'Source Sans Pro', Arial Black;
+              font-weight : 200;
+              font-size : 14px;
+  }
   
   ul li { 
     padding-top: 0px;
     padding-bottom: 0px;
     margin-bottom: 0px;
     margin-top: 1px;
+    font-family: helvetica ;
+        font-weight: normal;
+        font-size : 12px;
+  }
+  
+  ol li { 
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-top: 1px;
+    font-family: helvetica ;
+        font-weight: normal;
+        font-size : 12px;
   }
   
   
@@ -2149,7 +2190,7 @@ Resume
 <ul>
 <li class="job-title">
 <strong>Independent Tutor</strong> (2012-Current)
-<ul>
+<ul >
 <li class="job-description">
 I’ve met 1-on-1 with students for several years. I’ve worked completely independently with students (UCI page below), as well as through tutoring systems (the second and third links below).
 <ul>
@@ -2167,18 +2208,18 @@ I’ve met 1-on-1 with students for several years. I’ve worked completely inde
 </ul>
 </li>
 <li class="job-title">
-<strong>St. Norbert College Multicultural Center Tutor</strong> (2012-2013)
-<ul>
-<li class="job-description">
-Similar to holding office hours, I sat in a large room and helped my multicultural peers with all levels of math from algebra through multivariate calculus, introductory economics, writing/editing, and a few other introductory classes I was also taking.
-</li>
-</ul>
-</li>
-<li class="job-title">
 <strong>Introduction to Statistics Teaching Assistant</strong> (2018, 2020)
 <ul>
 <li class="job-description">
 Worked with the teacher to help teach introductory statistics during the shortened summer sessions. I taught review sessions, created test questions, checked homework and lab assignments, and mostly helped answer student questions about the material, homeworks, and labs.
+</li>
+</ul>
+</li>
+<li class="job-title">
+<strong>St. Norbert College Multicultural Center Tutor</strong> (2012-2013)
+<ul>
+<li class="job-description">
+Similar to holding office hours, I sat in a large room and helped my multicultural peers with all levels of math from algebra through multivariate calculus, introductory economics, writing/editing, and a few other introductory classes I was also taking.
 </li>
 </ul>
 </li>
