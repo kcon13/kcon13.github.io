@@ -13,8 +13,8 @@ site: distill::distill_website
   </p>
 </div>
 <div>
-  <h5>Current number of students for winter 2021: 2 </h5>
-  <h6>Student count last updated: 12/18/2020</h6>
+  <h5>Current number of students for winter 2021: 9 </h5>
+  <h6>Student count last updated: 2/21/2021</h6>
 </div>
 
 

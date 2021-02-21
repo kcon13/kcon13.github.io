@@ -20,7 +20,7 @@ site: distill::distill_website
   <p>
     <ul>
       <li>Quantitative Methods for Public Policy at Liberty University (November 2020)
-      <ul>
+        <ul>
         <li>Professor: <a href="https://www.liberty.edu/government/faculty/kahlib-fischer/">Dr. Kahlib Fischer</a></li>
         <li>Discussion on the process of question development and preparing for data collection.</li>
       </ul>
@@ -29,6 +29,12 @@ site: distill::distill_website
       <ul>
         <li>Professor: Dr. Kahlib Fischer</li>
         <li>Discussion on the process of performing a statistical analysis.</li>
+      </ul>
+      </li>
+      <li>Quantitative Methods for Public Policy at Liberty University (January-March 2021)
+      <ul>
+        <li>Professor: Dr. Kahlib Fischer</li>
+        <li>Working with three project groups to refine their research questions and hypotheses.</li>
       </ul>
       </li>
     </ul>
