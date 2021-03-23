@@ -3,32 +3,35 @@ title: "Research"
 site: distill::distill_website
 ---
 
-<p>
-My research is currently focused on developing statistical methods for censored survival data.  My research focus is driven by an application to Native American health care systems and health disparities.  My first dissertation problem is to examine the effect of interval censoring in recurrent event EHR data under the proportional hazards assumption and an easy way to reduce bias.  The second project is to develop a prediction model to dealing with interval censoring when the proportional hazards assumption does not hold.  The final project is to extend the time-dependent AUROC curves to the multivariate case in order to improve model selection in the prior projects.  On the side, I am (lightly) working on sports analytics for ranking Ultimate teams and identifying the most useful metrics for predicting the winner of a game.
+<p class="researchIntro">
+My research is currently focused on developing statistical methods for censored survival data.  My research focus is driven by an application to Native American health care systems and health disparities.  My first dissertation problem is to examine the effect of unknown interval censoring in recurrent event EHR data under the proportional hazards assumption and an easy way to reduce bias.  The second project is to develop a prediction model to dealing with unknown interval censoring when the proportional hazards assumption does not hold.  The final project is to extend the time-dependent AUROC curves to the multivariate case in order to improve model selection in the prior projects.  On the side, I am (lightly) working on sports analytics for ranking Ultimate teams and identifying the most useful metrics for predicting the winner of a game.
 </p>
 
+<div class="collab"
+  <h1>
+  Collaborations
+  </h1>
+  <h4>
+  Center for American Indian and Alaskan Native Health (<a href="https://coloradosph.cuanschutz.edu/research-and-practice/centers-programs/caianh">Link</a>)
+  </h4>
+    <p>
+  The center is currently working on understanding dementia in AIAN populations via two main pathways and two main outcomes.  On the pre-dementia end, the goal is to understand what sociodemographic factors are associated with onset of dementia and what modifiable risk factors influence the onset of dementia, with a special emphasis on the relationship between diabetes and dementia.  After developing dementia, the goal is to understand if (and how) health service utilization changes, what is most effective, and the resulting costs.
+    </p>
+  
+  <h4>
+  Liberty University Helms School of Government Professor Projects Course
+  </h4>
+    <p>
+  Through a connection with Dr. <a href="https://www.liberty.edu/government/faculty/kahlib-fischer/">Kahlib Fischer</a>, I worked with class groups to think about organizing and running quantitative public policy related research projects.  Previous projects I worked with include two different projects on the relationship between lockdowns and COVID-19 cases in both the United States and internationally.   Another project focused on how voting laws impact voter fraud.  The goal of the course is to introduce students to research in the field of public policy, but the projects are meant to be conducted with a potential for presenting and publishing an article after 2 semesters.
+    </p>
+</div>
 
-<h1>
-Collaborations
-</h1>
-<h4>
-Center for American Indian and Alaskan Native Health (<a href="https://coloradosph.cuanschutz.edu/research-and-practice/centers-programs/caianh">Link</a>)
-</h4>
-<p>
-The center is currently working on understanding dementia in AIAN populations via two main pathways and two main outcomes.  On the pre-dementia end, the goal is to understand what sociodemographic factors are associated with onset of dementia and what modifiable risk factors influence the onset of dementia, with a special emphasis on the relationship between diabetes and dementia.  After developing dementia, the goal is to understand if (and how) health service utilization changes, what is most effective, and the resulting costs.
-</p>
 
-<h4>
-Liberty University Helms School of Government Professor Projects Course
-</h4>
-<p>
-Through a connection with Dr. <a href="https://www.liberty.edu/government/faculty/kahlib-fischer/">Kahlib Fischer</a>, I worked with class groups to think about organizing and running quantitative public policy related research projects.  Previous projects I worked with include two different projects on the relationship between lockdowns and COVID-19 cases in both the United States and internationally.   Another project focused on how voting laws impact voter fraud.  The goal of the course is to introduce students to research in the field of public policy, but the projects are meant to be conducted with a potential for presenting and publishing an article after 2 semesters.
-</p>
-
-<h1>
+<div class="resInterests">
+  <h1>
 Research Interests
-</h1>
-<p>
+  </h1>
+  <p>
 My research interests are primarily driven by the areas of application and/or in applied directions.  Listed below are my main statistical areas of interest with reasons/applications sub-listed below the topics:
 <ul>
   <li>Survival Analysis</li>
@@ -64,5 +67,5 @@ My research interests are primarily driven by the areas of application and/or in
   </ul>
 </ul>
 </p>
-
+</div>
 

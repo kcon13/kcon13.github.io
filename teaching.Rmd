@@ -6,8 +6,8 @@ site: distill::distill_website
 ---
 
 <div>
-  <h3>Teaching Assistant</h3>
-  <p>
+  <h3 class="taHeading">Teaching Assistant</h3>
+  <p class="taList">
     <ul>
       <li><a href="http://catalogue.uci.edu/allcourses/stats/">STATS 7 Basic Statistics</a>.(Summer 2020)  
       <ul><li>Professor: Mary Ryan</li></ul></li>
@@ -16,8 +16,8 @@ site: distill::distill_website
     </ul>
   </p>
     
-  <h3>Guest Teaching</h3>
-  <p>
+  <h3 class="guestTeachingHeading">Guest Teaching</h3>
+  <p class="guestTeachList">
     <ul>
       <li>Quantitative Methods for Public Policy at Liberty University (November 2020)
         <ul>
@@ -40,8 +40,8 @@ site: distill::distill_website
     </ul>
   </p>
   
-  <h3>Teaching</h3>
-  <p>
+  <h3 class="teachHeading">Teaching</h3>
+  <p class="teachList">
     <ul>
       <li>None yet</li>
     </ul>
@@ -51,8 +51,8 @@ site: distill::distill_website
 
 
 <div>
-<h3>Additional Teaching Endeavors</h3>
-  <p>Kyle has started developing two resources for teaching introductory statistics.  The original ideas and (much appreciated) guidance come from <a href="https://mdogucu.ics.uci.edu/">Dr. Mine Dogucu</a>.  The goal is to turn these projects into useful tools for teaching students the basics of statistics.
+<h3 class="otherTeachHeading">Additional Teaching Endeavors</h3>
+  <p class="otherTeachWork">Kyle has started developing two resources for teaching introductory statistics.  The original ideas and (much appreciated) guidance come from <a href="https://mdogucu.ics.uci.edu/">Dr. Mine Dogucu</a>.  The goal is to turn these projects into useful tools for teaching students the basics of statistics.
     <ul style="list-style-type:none;">
       <li><a href="https://github.com/kcon13/introTeach">R Package</a></li>
       <li><a href="https://github.com/kcon13/introTeach-shiny">R Shiny</a></li>
@@ -60,7 +60,7 @@ site: distill::distill_website
   </p>
 </div>
 
-<div>
+<div class="TeachWork">
   <p>The two projects currently work together to help students calculate z-scores, t-scores, quantiles, and p-values from the information that will be given in a typical introductory question.  There is also an option to visualize the distribution and area to which the probability corresponds.  The projects are only in the very formative stages, with many more ideas for adding to them.  Some of the goals include:
     <ol>
       <li>Guide for choosing the right test</li>

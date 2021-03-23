@@ -6,49 +6,53 @@ site: distill::distill_website
 ---
 
 
-<p>
+<p class="homeIntro">
 I am a Ph.D. student of statistics at the University of California Irvine (<a href="https://www.uci.edu/">UCI</a>).  I am working under the direction of <a href="https://www.ics.uci.edu/~dgillen/index.html">Dan Gillen</a>, Ph.D in censored suvival data for Native American health care.  I received a Bachelor's of Arts from St. Norbert College (<a href="https://www.snc.edu/">SNC</a>) in mathematics in 2016.  I strive to teach and aid non-statistical faculty in their teaching of statistical thinking.
 </p>
 
-<p>
+<p class="cv>>
 <a href="cv.html">Curriculum Vitae</a>
 </p>
 
 
+<div class="edu">
+  <h3>
+  Education:
+  </h3>
+  <p>
+    <!--Ph.D., Department of Statistics, University of California Irvine, Irvine, CA, USA (...) -->
+  </p>
+  <p>
+  B.A., in Mathematics, St. Norbert College, De Pere, WI, USA (2016)
+  </p>
+</div>
 
-<h3>
-Education:
-</h3>
-<p>
-<!--Ph.D., Department of Statistics, University of California Irvine, Irvine, CA, USA (...) -->
-</p>
-<p>
-B.A., in Mathematics, St. Norbert College, De Pere, WI, USA (2016)
-</p>
+<div class="ha">
+  <h3>
+  Honors and Awards:
+  </h3>
+  <p>
+  National Science Foundation Graduate Research Fellowship Program (2017)
+  </p>
+   <p>
+  Eugene Cota-Robles Fellowship Recipient (2016)
+  </p>
+  <p>
+  Diversity Fellowship Recipient (2016)
+  </p>
+  <p>
+  McNair Scholar (2013)
+  </p>
+</div>
 
-<h3>
-Honors and Awards:
-</h3>
-<p>
-National Science Foundation Graduate Research Fellowship Program (2017)
-</p>
- <p>
-Eugene Cota-Robles Fellowship Recipient (2016)
-</p>
-<p>
-Diversity Fellowship Recipient (2016)
-</p>
-<p>
-McNair Scholar (2013)
-</p>
-
-
-<h3>
-Certificates:
-</h3>
-<p>
-Course Design Certificate Program (2020)
-</p>
+<div class="cert">
+  <h3>
+  Certificates:
+  </h3>
+  <p>
+  Course Design Certificate Program (2020)
+  </p>
+</div>
 
 
 

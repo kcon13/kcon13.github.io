@@ -8,18 +8,18 @@ site: distill::distill_website
 
 
 <div>
-  <p>
+  <p class="tutorIntro">
     Kyle has over 10 years of tutoring experience.  He has refined his 1-on-1 tutoring technique to emphasize using the student's own learning style to maximize their knowledge base in the subject.  Thus, when a faced with a challenging question, students are prepared to think through the question in their own terms.  If you are looking for an experienced, personable tutor who will focus on your learning, then reach out to Kyle by sending him an email: <a href="mailto:krconnif@uci.edu">krconnif@uci.edu</a>.
   </p>
 </div>
 <div>
-  <h5>Current number of students for winter 2021: 9 </h5>
-  <h6>Student count last updated: 2/21/2021</h6>
+  <h5>Current number of students for winter 2021: 10 </h5>
+  <h6>Student count last updated: 3/22/2021</h6>
 </div>
 
 
 
-<div>
+<div class="tutorResume">
   <h3>Resume</h3>
   <ul>
     <li class="job-title"><strong>Independent Tutor</strong> (2012-Current)
@@ -60,23 +60,27 @@ site: distill::distill_website
   </ul>  
 </div>
 
-<div>
+<div class="tutorHistory">
 <h3>Recently Tutored Courses</h3>
   <ul>
     <li>College Introduction to Statistics</li>
     <li>College Pre-calculus</li>
     <li>College Algebra</li>
-    <li>High school Math 3/pre-calculus</li>
+    <li>High school Math 3</li>
+    <li>Pre-calculus</li>
+    <li>High School AP Calculus A/B</li>
+    <li>High School AP Calculus B/C</li>
     <li>Quantitative Methods in Ecological Sciences</li>
     <li>Intermediate Mathematical Statistics</li>
     <li>High School AP Statistics</li>
     <li>Biostatistics for Nurses</li>
+    <li>Middle School Algebra</li>
     <li>How to teach Statistics for Public Policy</li>
     <li>Masters of Teaching Capstone Research Project</li>
   </ul>
 </div>
 
-<div>
+<div class="tutorRate">
 <h3>Rate</h3>
 <ul>
 <li>$50/hour for most college and high school level courses.</li>
@@ -86,7 +90,7 @@ site: distill::distill_website
 <p>Second note: I don't charge for short questions that are texted or emailed to me.  If you have a quick question, send me a pic and I'll answer quickly via the same medium.  I will recommend a session if I think it will require a substantial amount of time.</p>
 </div>
 
-<div>
+<div class="tutorInfo">
 <h3>Additional Information</h3>
   <p>
     Kyle's tutoring style may not be entirely typical.  He will very rarely give students the answers to questions.  He does not oftentimes answer students' questions in his own terms.  Instead, he will turn questions around to the students.  He will ask them to return to their notes and review what the teacher said.  He will break the question into pieces and encourage the student to build up their understanding of the information as it relates to previously covered material.  In essence, Kyle is a teacher.  His focus is on teaching, and tutoring is on opportunity to be a 1-on-1 teacher.  

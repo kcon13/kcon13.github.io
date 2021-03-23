@@ -5,74 +5,82 @@ description: |
 site: distill::distill_website
 ---
 
-<p>
+<p class="aboutIntro">
 This is the personal website for Kyle Conniff.  Information about his research and teaching histories can be found under the similarly labeled pages.  See below for what can be found under each of the pages.
 </p>
 
+<div class="home">
+  <h1>
+  Home
+  </h1>
+  <p>
+      <ul>
+      <li>Pronunciation Videos</li>
+      <li>Educational Background</li>
+      <li>Current position</li>
+      <li>Current endevours</li>
+      <li>CV</li>
+      <!-- <li>Link to Educational Site</li> 
+      <li>Link to YouTube</li> -->
+      <li>Contact Information</li>
+    </ul>
+  </p>
+</div>
 
-<h1>
-Home
-</h1>
-<p>
-    <ul>
-    <li>Pronunciation Videos</li>
-    <li>Educational Background</li>
-    <li>Current position</li>
-    <li>Current endevours</li>
-    <li>CV</li>
-    <!-- <li>Link to Educational Site</li> 
-    <li>Link to YouTube</li> -->
-    <li>Contact Information</li>
-  </ul>
-</p>
+<div class="res">
+  <h1>
+  Research
+  </h1>
+  <p>
+      <ul>
+      <li>Current Research Projects</li>
+      <li>Current Collaborations</li>
+      <li>Past Collaborations</li>
+      <li>Research Interests</li>
+      <li>Publications</li>
+    </ul>
+  </p>
+</div>
 
-<h1>
-Research
-</h1>
-<p>
-    <ul>
-    <li>Current Research Projects</li>
-    <li>Current Collaborations</li>
-    <li>Past Collaborations</li>
-    <li>Research Interests</li>
-    <li>Publications</li>
-  </ul>
-</p>
-
-<h1>
-Tutoring
-</h1>
-<p>
-    <ul>
-    <li>Overiew of Kyle as a tutor</li>
-    <li>Tutoring Resume</li>
-    <li>Recent Tutoring Work</li>
-    <li>Rate</li>
-    <li>Additional Information</li>
-  </ul>
-</p>
+<div class="tut">
+  <h1>
+  Tutoring
+  </h1>
+  <p>
+      <ul>
+      <li>Overiew of Kyle as a tutor</li>
+      <li>Tutoring Resume</li>
+      <li>Recent Tutoring Work</li>
+      <li>Rate</li>
+      <li>Additional Information</li>
+    </ul>
+  </p>
+</div>
 
 
-<h1>
-Teaching
-</h1>
-<p>
-    <ul>
-    <li>Current Courses</li>
-    <li>Links to Course Material</li>
-    <li>Past Courses Taught</li>
-    <li>Links to Course Syllabi</li>
-    <li>Links to Materials for Teaching Courses</li>
-    <li>Additional Teaching Resources</li>
-  </ul>
-</p>
+<div class="teach">
+  <h1>
+  Teaching
+  </h1>
+  <p>
+      <ul>
+      <li>Current Courses</li>
+      <li>Links to Course Material</li>
+      <li>Past Courses Taught</li>
+      <li>Links to Course Syllabi</li>
+      <li>Links to Materials for Teaching Courses</li>
+      <li>Additional Teaching Resources</li>
+    </ul>
+  </p>
+</div>
 
-<h1>
-Personal
-</h1>
-<p>
-    <ul>
-    <li>Some of the things Kyle does when not teaching or researching</li>
-  </ul>
-</p>
-
+<div class="pers">
+  <h1>
+  Personal
+  </h1>
+  <p>
+      <ul>
+      <li>Some of the things Kyle does when not teaching or researching</li>
+    </ul>
+  </p>
+</div>
