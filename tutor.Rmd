@@ -14,7 +14,7 @@ site: distill::distill_website
 </div>
 <div>
   <h5>Current number of students for winter 2021: 10 </h5>
-  <h6>Student count last updated: 3/22/2021</h6>
+  <h6>Student count last updated: 4/22/2021</h6>
 </div>
 
 
@@ -33,7 +33,7 @@ site: distill::distill_website
         </li>
       </ul>
       </li>
-          <li class="job-title"><strong>Introduction to Statistics Teaching Assistant</strong> (2018, 2020)
+          <li class="job-title"><strong>Teaching Assistant: Introduction to Statistics </strong> (2018, 2020)
       <ul>
         <li class="job-description">Worked with the teacher to help teach introductory statistics during the shortened summer sessions.  I taught review sessions, created test questions, checked homework and lab assignments, and mostly helped answer student questions about the material, homeworks, and labs.</li>
       </ul></li>
