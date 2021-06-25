@@ -9,11 +9,27 @@ site: distill::distill_website
   <h3 class="taHeading">Teaching Assistant</h3>
   <p class="taList">
     <ul>
+      <li><a href="https://www.cosmos.uci.edu/welcome-to-your-new-website/cluster-1-data-science-in-health-sciences/">UCI COSMOS Exploring the Application of Data Science in the Health Sciences</a> (July 2021)
+        <ul>
+          <li> Professors: Dr. <a href="https://mdogucu.ics.uci.edu/">Mine Dogucu</a> and Dr. <a href="https://www.ics.uci.edu/~babaks/">Babak Shahbaba </a></li>
+          <li>This cluster explores how data science can be used to better understand and treat human health conditions, with the goal of saving lives.</li>
+        </ul>
+      </li>
+      <li><a href="http://catalogue.uci.edu/allcourses/stats/">STATS 120A Introduction to Probability and Statistics I</a> (Summer 2021)
+        <ul>
+          <li>Professor: Dr. <a href="https://www.stat.uci.edu/faculty/koko-gulesserian/">Koko Gulesserian</a></li>
+          <li>Introduction to basic principles of probability and statistical inference. Axiomatic definition of probability, random variables, probability distributions, expectation.</li>
+        </ul>
+      </li>
       <li><a href="http://catalogue.uci.edu/allcourses/stats/">STATS 7 Basic Statistics</a>.(Summer 2020)  
-      <ul><li>Professor: Mary Ryan</li></ul></li>
+        <ul>
+          <li>Professor: Dr. <a href="https://maryryan.netlify.app/">Mary Ryan</a></li>
+          <li>Introduces basic inferential statistics including confidence intervals and hypothesis testing on means and proportions, t-distribution, Chi Square, regression and correlation. F-distribution and nonparametric statistics included if time permits.</li>
+        </ul>
+      </li>
       <li>STATS 7 Basic Statistics (Summer 2018).  
-      <ul><li>Professor: <a href="https://profiles.sc-ctsi.org/michelle.nuno">Dr. Michelle Nuno</a></li></ul></li></li>
-    </ul>
+      <ul><li>Professor: Dr. <a href="https://profiles.sc-ctsi.org/michelle.nuno">Michelle Nuno</a></li></ul></li>
+    </ul></li>
   </p>
     
   <h3 class="guestTeachingHeading">Guest Teaching</h3>
@@ -21,7 +37,7 @@ site: distill::distill_website
     <ul>
       <li>Quantitative Methods for Public Policy at Liberty University (November 2020)
         <ul>
-        <li>Professor: <a href="https://www.liberty.edu/government/faculty/kahlib-fischer/">Dr. Kahlib Fischer</a></li>
+        <li>Professor: Dr. <a href="https://www.liberty.edu/government/faculty/kahlib-fischer/">Kahlib Fischer</a></li>
         <li>Discussion on the process of question development and preparing for data collection.</li>
       </ul>
       </li>
