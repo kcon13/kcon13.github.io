@@ -13,8 +13,8 @@ site: distill::distill_website
   </p>
 </div>
 <div>
-  <h5>Current number of students for winter 2021: 3 </h5>
-  <h6>Student count last updated: 6/25/2021</h6>
+  <h5>Current number of students for summer 2021: 1 </h5>
+  <h6>Student count last updated: 7/25/2021</h6>
 </div>
 
 
@@ -22,55 +22,46 @@ site: distill::distill_website
 <div class="tutorResume">
   <h3>Resume</h3>
   <ul>
-    <li class="job-title"><strong>Teaching Assistant: UCI COSMOS: Exploring the Application of Data Science in the Health Sciences</strong> (July, 2021)
+      <li class="job-title"><strong>Teaching Assistant: UCI COSMOS: Exploring the Application of Data Science in the Health Sciences</strong> (July, 2021)
     <ul>
       <li class="job-description">Worked with high school students to help them develop insight into how data science can be used to save and advance human lives. I lead discussions, answered questions during lectures, graded assignments, and helped students with an analysis project to end the course.
       <ul>
         <li><a href="https://www.cosmos.uci.edu/welcome-to-your-new-website/cluster-1-data-science-in-health-sciences/">UCI COSMOS Cluster 1: Data Science in the Health Sciences</a> </li>
-      </ul>
-      </li>
-    </ul>
-    </li>
+      </ul></li>
+    </ul></li>
     <li class="job-title"><strong>Teaching Assistant: Introduction to Probability and Statistics I</strong> (Summer 2021)
     <ul>
       <li class="job-description">Worked with lecturer to provide remote teaching to students taking a major-level course in mathematical statistics.  I held office hours, graded assignments and exams, and proctored exams.</li>
-    </ul>
-    </li>
+    </ul></li>
     <li class="job-title"><strong>Independent Tutor</strong> (2012-Current)
-      <ul >
+      <ul>
       <li class="job-description">I've met 1-on-1 with students for several years.  I've worked completely independently with students (UCI page below), as well as through tutoring systems (the second and third links below).
         <ul>
           <li><a href="https://www.stat.uci.edu/tutoring-resources/">UCI Stats Department</a></li>
           <li><a href="https://takelessons.com/profile/kyle-c31?service=math&online=1">TakeLessons</a></li>
           <li><a href="https://www.wyzant.com/match/tutor/86985535">Wyzant</a></li>
-        </ul>
-        </li>
-      </ul>
-      </li>
-          <li class="job-title"><strong>Teaching Assistant: Introduction to Statistics </strong> (Summer 2018, Summer 2020)
+        </ul></li>
+      </ul></li>
+      <li class="job-title"><strong>Teaching Assistant: Introduction to Statistics </strong> (Summer 2018, Summer 2020)
       <ul>
         <li class="job-description">Worked with the teacher to help teach introductory statistics during the shortened summer sessions.  I taught review sessions, created test questions, checked homework and lab assignments, and mostly helped answer student questions about the material, homeworks, and labs.</li>
       </ul></li>
     <li class="job-title"><strong>St. Norbert College Multicultural Center Tutor</strong> (2012-2013)
       <ul>
-        <li class="job-description">Similar to holding office hours, I sat in a large room and helped my multicultural peers with all levels of math from algebra through multivariate calculus, introductory economics, writing/editing, and a few other introductory classes I was also taking. </li>
-      </ul>
-    </li>
+        <li class="job-description">Similar to holding office hours, I sat in a large room and helped my multicultural peers with all levels of math from algebra through multivariate calculus, introductory economics, writing/editing, and a few other introductory classes I was also taking.</li>
+      </ul></li>
     <li class="job-title"><strong>Boy's & Girl's Club Tutor</strong> (2012-2013)
       <ul>
         <li class="job-description">I helped students at an undisclosed, minority-serving middle school (6-8th grades) work through all types of math questions.</li>
-      </ul>
-    </li>
+      </ul></li>
     <li class="job-title"><strong>Ranger Ambassador</strong> (2011-2012)
       <ul>
         <li class="job-description">I helped a kindergarten/1st grade teacher with teaching students who needed a little extra help learn how to add and subtract.</li>
-      </ul>
-    </li>
+      </ul></li>
     <li class="job-title"><strong>Boy's & Girl's Club Program Staff</strong> (2009-2016)
       <ul>
         <li class="job-description">I designed and implemented games and activities for teaching and entertaining children aged 5-18.  I primarily worked with children with no place to go after school on fundamental tasks such as cooking, homework, and being aware of/respectful to others around them.</li>
-      </ul>
-    </li>
+      </ul></li>
   </ul>  
 </div>
 

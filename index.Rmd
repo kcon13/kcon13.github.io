@@ -10,7 +10,7 @@ site: distill::distill_website
 I am a Ph.D. student of statistics at the University of California Irvine (<a href="https://www.uci.edu/">UCI</a>).  I am working under the direction of <a href="https://www.ics.uci.edu/~dgillen/index.html">Dan Gillen</a>, Ph.D in censored suvival data for Native American health care.  I received a Bachelor's of Arts from St. Norbert College (<a href="https://www.snc.edu/">SNC</a>) in mathematics in 2016.  I strive to teach and aid non-statistical faculty in their teaching of statistical thinking.
 </p>
 
-<p class="cv>>
+<p class="cv">
 <a href="cv.html">Curriculum Vitae</a>
 </p>
 
