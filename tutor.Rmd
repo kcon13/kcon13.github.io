@@ -13,7 +13,7 @@ Kyle has over 10 years of tutoring experience.  He has refined his 1-on-1 tutori
 
 <h5>Current number of students for fall 2021: 4 </h5>
 
-<h6>Student count last updated: 9/26/2021</h6>
+<h6>Student count last updated: 10/172021</h6>
 </div>
   
   
@@ -87,7 +87,7 @@ Kyle has over 10 years of tutoring experience.  He has refined his 1-on-1 tutori
 <div class="tutorRate">
   <h3>Rate</h3>
   <ul>
-  <li>$50/hour for most college and high school level courses.</li>
+  <li>$65/hour for most college and high school level courses.</li>
   <li>Rates for children depend on the subjects and expectations of the parents. Creating lesson plans and teaching subjects will be more expensive than helping with homework.  Please reach out to address expectations and come to an agreement on hourly rate.</li>
   </ul>
   <p>Note: all prices are negotiable.  If you explain your situation, I'm sure we can come to an agreement on an acceptable rate.  Students paying for themselves are typically afforded the most leeway.  If you aren't sure, just ask.  My focus is on student learning, not income.</p>
