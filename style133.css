@@ -206,6 +206,34 @@ p{
 
 
 
+#jamaButton{
+  background-color: limegreen;
+  color: #ff33cc;
+  text-decoration: style;
+  font-weight: bold;
+  width: auto;
+  height: auto;
+  border-radius: 25%;
+  text-align: center;
+  margin-left: 49%;
+  cursor: pointer;
+
+}
+
+.jamaButt{
+}
+
+.jamaButt:hover, .cvButt:focus{
+  background-color: #3e8e41;
+}
+
+
+#jamaDiv{
+  display: none;
+}
+
+
+
 
 .spec{
   font-weight: bold;
