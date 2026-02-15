@@ -1,3 +1,19 @@
+
+body {
+  margin: auto;
+  padding: 20px;
+  font-weight: 300;
+}
+
+
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+
 .container{
   display: grid;
   grid-template-rows: 160px auto 30px;
@@ -12,32 +28,56 @@
 
 
 .item{
-  background-color: #fefeff;
-  color: #ff33cc; /*rgb(255, 102, 179);-->*/
   text-align:center;
+  color: #ff33cc;
 } 
 
 .main{
-  grid-area:main;
-  text-align: left;  
-  margin: 10px 0px 10px 0px;
+  grid-area: main;
+  max-width: 900px;
+  text-align: left;
+  font-size: 19px;
+  margin: 10px 50px 10px 0px;
+  padding: 40px 20px; /* adds breathing room */ 
+  line-height: 1.4; /* improves readability */
 }
+
+.main p { 
+  margin-bottom: 0.4rem; 
+  
+}
+
+.main h3 {
+  margin-top: 2rem;
+}
+
 
 .header{
   text-align: left;
   grid-area: header;
   padding-left: 20%;
   padding-right: 20%;
+  max-width: 900px;
   flex-wrap: wrap;
 }
+
+.header h1 {
+  margin-top: 40px;
+}
+
+.header h4 {
+  margin-bottom: 0px;
+}
+
 
 .footer{
   grid-area: footer;
   background-color: #ff33cc;
   color: #fefeff;
-  height: auto;
   width: 100%;
-  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .footer a {
@@ -65,24 +105,15 @@
 
 
 #email_sig{
-  display: inline-block;
-  position: relative;
-  margin: 0;
-  float: right;
-  width: 30%;
   text-align: right;
-  padding-right: 5px;
+  padding-right: 10px;
 }
 
 
 #foot_nav{
-  display: inline-block;
-  position: relative;
-  padding: 0 0 0 5px;
-  float: left;
-  width: 69%;
   text-align: left;
   text-decoration: none;
+  padding-left: 10px;
 }
 
 
@@ -102,6 +133,13 @@
     text-decoration: none;
 }
 
+.navbar a.navactive { 
+  text-decoration: underline; 
+  font-weight: bold;
+  color: black;
+  background-color: inherit;
+}
+
 .navbar a:hover {
     color: black;
     text-decoration: none;
@@ -114,18 +152,14 @@
   width:250px;
   height:auto;
   border-radius: 150px;
-  float:right;
+  float: right;
   margin:0;
   padding:0;
 }
 
 .audio-container{
   display: flex;
-  justify-content: center;
-  align-items: top;
-  position: absolute;
-  top: 70px;
-  right: 42%;
+  margin-top: 10px;
 }
 
 
@@ -133,7 +167,7 @@
   display: inline-block;
   padding: 5px;
   position: absolute;
-  top: 0;
+  top: 10px;
   left: 40px;
 }
 
@@ -154,12 +188,11 @@ h1{
 }
 h4{
   font-size: 18px;
-  font-weight; bold;
+  font-weight: bold;
 }
 
 a{
-  text-decoration: none;
-  color: limegreen;
+  color: #32cd32;
   text-decoration: underline;
   
 }
@@ -172,10 +205,23 @@ a:hover{
 }
 
 
-p{
-  padding-left: 15px;
+.edu-list, .cert-list, .ha-list{
+  list-style: none;
+  padding-left: 0;
+  margin-top: 0.5rem;
 }
 
+
+#priorities-button{
+  font-size: 1.17em;
+  font-weight: bold;
+  color: ff33cc;
+  margin-top: 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 20px;
+  width: 100%;
+}
 
 
 #cvButton{
@@ -201,6 +247,34 @@ p{
 
 
 #cvDiv{
+  display: none;
+}
+
+
+
+#jamaButton{
+  background-color: limegreen;
+  color: #ff33cc;
+  text-decoration: style;
+  font-weight: bold;
+  width: auto;
+  height: auto;
+  border-radius: 25%;
+  text-align: center;
+  margin-left: 49%;
+  cursor: pointer;
+
+}
+
+.jamaButt{
+}
+
+.jamaButt:hover, .cvButt:focus{
+  background-color: #3e8e41;
+}
+
+
+#jamaDiv{
   display: none;
 }
 
@@ -252,15 +326,136 @@ p{
 
 
 
+.about-lists {
+  padding-left: 20px;
+  margin-top: 0.5rem;
+}
+
+
+.about-lists li {
+  margin-bottom: 0.3rem;
+  line-height: 1.3;
+}
+
+.icon {
+  font-size: 1.1em;   /* slightly larger */
+}
+
+
+.collapsible-about {
+  cursor: pointer;
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  padding: 0;
+  border: none;
+  background: none;
+  color: inherit;
+}
+
+.collapsible-about:hover {
+  text-decoration: underline;
+}
+
+.about-content {
+  display: none;
+  margin-left: 1rem;
+  margin-top: 0.5rem;
+}
+
+
+.arrow { 
+  transition: transform 0.2s ease; display: inline-block; 
+  
+} 
+
+.arrow.open 
+{ 
+  transform: rotate(90deg); /* ▶ becomes ▼ */ 
+  
+}
+
+
+.tutor-header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.student-status {
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  padding: 10px 15px;
+  border-radius: 6px;
+  max-width: 260px;
+  font-size: 0.95rem;
+}
+
+.student-status .updated {
+  font-size: 0.8rem;
+  color: #666;
+  margin-top: -5px;
+}
 
 
 
 
 
+.tutor-titles {
+  list-style: none;
+  padding-left: 0;
+  margin-left: -20px;
+  margin-top: 0.5rem;
+}
 
 
 
 
+#ultimatepic {
+  float: left;
+  width: 200px;
+  height: auto;
+  padding-right: 5px;
+}
+
+#jugglingpic {
+  float:right;
+  width:250px;
+  height:auto;
+  padding-left:5px
+}
+
+
+#drakey{
+  float:left;
+  width:500px;
+  height:auto;
+  padding-right:5px
+}
+
+
+
+.hobby-head {
+  margin: 4px 0 1px 15px;
+}
+
+.hobby-par {
+  margin: 0 0 2px 0;
+}
+
+.hobby-section .hobby-block{
+  margin-top: 20px;
+}
+
+
+b, strong {
+  font-weight: bold;
+}
+
+emph, i {
+  font-style: italic;
+}
 
 
 

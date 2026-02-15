@@ -1,15 +1,22 @@
 <html>
 
 <head>
-<link rel="stylesheet" href="style133.css">
-<title>Kyle Conniff</title>
+<link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <title>CV | Kyle Conniff</title>
+
+  <meta name="description" content="Curriculum vitae for Kyle Conniff, including research, teaching, publications, and professional experience.">
+
+  <meta name="keywords" content="Kyle Conniff CV, statistics CV, dementia research CV, academic CV">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 <body>
 
     <div class="navbar">
       <nav id="top_navbar">
-        <a href="index.html">Home</a> | 
+        <a href="index.html" class="navactive">Home</a> | 
         <a href="about.html">About</a> | 
         <a href="research.html">Research</a> | 
         <a href="tutoring.html">Tutoring</a> | 
@@ -31,13 +38,22 @@
   </div>
   
   <div class="item main">
-<p>Click the button below to view my CV.  Updated November 2023.</p>
+<p>Click the button below to view my CV.  Updated January 2026.</p>
 
     <button onclick="viewCV()" id="cvButton" class="cvButt">View CV</button>
     <div id="cvDiv">
-      <iframe id="forcvButton" class="cvViewer" src="cv2023.pdf#toolbar=1" width="100%" height="500px" scrolling="auto"></iframe>
+      <iframe id="forcvButton" class="cvViewer" src="cv2025.pdf#toolbar=1" width="100%" height="500px" scrolling="auto"></iframe>
+    </div>
+
+
+<p>Click the button below to view my JAMA Network Open top peer reviewer letter.  Updated January 2025.</p>
+
+    <button onclick="viewJAMA()" id="jamaButton" class="jamaButt">View JAMA Letter</button>
+    <div id="jamaDiv">
+      <iframe id="forjamaButton" class="jamaViewer" src="JAMA-TopReviewer2024.pdf#toolbar=1" width="100%" height="500px" scrolling="auto"></iframe>
     </div>
   </div>
+  
   
   <div class="item sidebarright">
      <!--<p>Insert ad 2 here</p>-->
@@ -68,6 +84,19 @@
       } else {
         x.style.display = "none";
         y.innerHTML = "View CV";
+      }
+    }
+    
+    
+    function viewJAMA() {
+      var x = document.getElementById("jamaDiv");
+      var y = document.getElementById("jamaButton")
+      if (x.style.display === "none" | x.style.display === "" ) {
+        x.style.display = "block";
+        y.innerHTML = "Hide JAMA Letter";
+      } else {
+        x.style.display = "none";
+        y.innerHTML = "View JAMA Letter";
       }
     }
   </script>

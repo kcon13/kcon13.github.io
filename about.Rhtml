@@ -2,7 +2,14 @@
 
 <head>
 <link rel="stylesheet" href="style.css">
-<title>Kyle Conniff</title>
+  <meta charset="UTF-8">
+  <title>About | Kyle Conniff</title>
+
+  <meta name="description" content="Learn about Kyle Conniff, a statistician focused on Alzheimer's, dementia, Indigenous health, and research ethics.">
+
+  <meta name="keywords" content="Kyle Conniff, statistics, dementia research, Indigenous health, Alzheimer's, survival analysis, aging research, survival analysis, system migration, time scales, time to event analysis">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 <body>
@@ -10,7 +17,7 @@
     <div class="navbar">
       <nav id="top_navbar">
         <a href="index.html">Home</a> |
-        <a href="about.html">About</a> |
+        <a href="about.html" class="navactive">About</a> |
         <a href="research.html">Research</a> |
         <a href="tutoring.html">Tutoring</a> |
         <a href="teaching.html">Teaching</a> |
@@ -30,35 +37,34 @@
   </div>
   
   <div class="item main">
-    <p class="aboutIntro">
-    This is the personal website for Kyle Conniff.  See below for what can be found under each of the pages.  (For items listed but not yet found, this is a to-do list for me.)
-    </p>
+    <p class="aboutIntro">This page provides a quick overview of what you’ll find across the site. Each section summarizes the content and purpose of its corresponding page, including items still in progress.</p>
     
-    <div class="home">
-      <h3>
-      Home
-      </h3>
-      <p>
-          <ul>
+    <p class = "aboutPurpose">What started as a small HTML project in graduate school has grown into a place where I can share my research, teaching, tutoring, and personal interests in one accessible space. My hope is that some of these resources can support students in their own development.</p>
+    
+    
+    
+    <div class="collapsible-about">
+      <span class="arrow">▶</span>Home <span class="icon">🏠</span></div>
+      <div class="about-content">
+      <p>A snapshot of who I am and how to navigate the site.</p>
+          <ul class="about-lists">
           <li>Name pronunciation bar</li>
           <li>Photo</li>
           <li>Educational Background</li>
           <li>Current position</li>
-          <li>Current endevours</li>
-          <li>Link to CV</li>
+          <li>Current endeavors</li>
+          <li>Curriculum Vitae</li>
           <!-- <li>Link to Educational Site</li> 
           <li>Link to YouTube</li> -->
           <li>Contact Information</li>
         </ul>
-      </p>
     </div>
     
-    <div class="res">
-      <h3>
-      Research
-      </h3>
-      <p>
-          <ul>
+    <div class="collapsible-about">
+      <span class="arrow">▶</span>Research <span class="icon">🔬</span></div>
+      <div class="about-content">
+      <p>An overview of my current and past projects, collaborations, publications, presentations, and research interests.</p>
+          <ul class="about-lists">
           <li>Current Research Projects</li>
           <li>Links to past research papers and presentations</li>
           <li>Current Collaborations</li>
@@ -66,52 +72,49 @@
           <li>Research Interests</li>
           <li>Publications</li>
         </ul>
-      </p>
     </div>
     
-    <div class="tut">
-      <h3>
-      Tutoring
-      </h3>
-      <p>
-          <ul>
-          <li>Overiew of Kyle as a tutor</li>
-          <li>Tutoring Resume</li>
-          <li>Recent Tutoring Work</li>
+    <div class="collapsible-about">
+      <span class="arrow">▶</span>Tutoring  <span class="icon">✏️</span></div>
+      <div class="about-content">
+      <p>My tutoring background, recent work, and rate information.</p>
+          <ul class="about-lists">
+          <li>Overview</li>
+          <li>Resume</li>
+          <li>Recent Classes</li>
           <li>Rate</li>
           <li>Additional Information</li>
         </ul>
-      </p>
     </div>
     
     
-    <div class="teach">
-      <h3>
-      Teaching
-      </h3>
-      <p>
-          <ul>
+    <div class="collapsible-about">
+      <span class="arrow">▶</span>Teaching  <span class="icon">🧑‍🏫</span></div>
+      <div class="about-content">
+      <p>Courses I've taught and other teaching resources.</p>
+          <ul class="about-lists">
           <li>Current Courses</li>
-          <li>Links to Course Material</li>
-          <li>Past Courses Taught</li>
-          <li>Links to Course Syllabi</li>
-          <li>Links to Materials for Teaching Courses</li>
+          <li>Course Material</li>
+          <li>Past Courses</li>
+          <li>Course Syllabi</li>
+          <li>Teaching Materials</li>
           <li>Additional Teaching Resources</li>
         </ul>
-      </p>
     </div>
     
-    <div class="pers">
-      <h3>
-      Personal
-      </h3>
-      <p>
-          <ul>
-          <li>Some defining qualities and characteristics</li>
+    <div class="collapsible-about">
+      <span class="arrow">▶</span>Personal  <span class="icon">🔍</span></div>
+      <div class="about-content">
+      <p>A brief look at who I am outside of work.</p>
+          <ul class="about-lists">
+          <li>Athletic Endeavors</li>
+          <li>Recovery Endeavors</li>
+          <li>Tribute to Drake</li>
         </ul>
-      </p>
     </div>
 
+
+<p class="aboutClosing">Thank you for visiting.  I'm continually updating the site, so check back for new content.</p>
 
   </div>
   
@@ -120,17 +123,20 @@
   </div>
   
   <div class="item footer">
-      <div id="email_sig">&copy; Copyright <a href="mailto:krconnif@uci.edu">Kyle Conniff</a></div>
-
+      <div class="foot_nav">
         <nav id="foot_nav">
-        <a href="index.html">Home</a> |
-        <a href="about.html">About</a> |
-        <a href="research.html">Research</a> |
-        <a href="tutoring.html">Tutoring</a> |
-        <a href="teaching.html">Teaching</a> |
-        <a href="personal.html">Personal</a>
-      </nav>
+          <a href="index.html">Home</a> | 
+          <a href="about.html">About</a> | 
+          <a href="research.html">Research</a> | 
+          <a href="tutoring.html">Tutoring</a> | 
+          <a href="teaching.html">Teaching</a> | 
+          <a href="personal.html">Personal</a>
+        </nav>
+      </div>
+            <div id="email_sig">&copy; Copyright<a href="mailto:krconnif@uci.edu"> Kyle Conniff</a></div>
+
   </div>
+  
   
   </div>
   <script src="script.js"></script>

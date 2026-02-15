@@ -10,6 +10,18 @@ function viewCV() {
 }
 
 
+    function viewJAMA() {
+      var x = document.getElementById("jamaDiv");
+      var y = document.getElementById("jamaButton")
+      if (x.style.display === "none" | x.style.display === "" ) {
+        x.style.display = "block";
+        y.innerHTML = "Hide JAMA Letter";
+      } else {
+        x.style.display = "none";
+        y.innerHTML = "View JAMA Letter";
+      }
+    }
+
 
 
 var coll = document.getElementsByClassName("collapsible");
@@ -26,3 +38,24 @@ for (i = 0; i < coll.length; i++) {
     }
   });
 }
+
+
+
+
+
+
+document.querySelectorAll(".collapsible-about").forEach(section => {
+  section.addEventListener("click", () => {
+    const arrow = section.querySelector(".arrow");
+    const content = section.nextElementSibling;
+
+    arrow.classList.toggle("open");
+    content.style.display = content.style.display === "block" ? "none" : "block";
+  });
+});
+
+
+
+
+
+

@@ -38,3 +38,24 @@ for (i = 0; i < coll.length; i++) {
     }
   });
 }
+
+
+
+
+
+
+document.querySelectorAll(".collapsible-about").forEach(section => {
+  section.addEventListener("click", () => {
+    const arrow = section.querySelector(".arrow");
+    const content = section.nextElementSibling;
+
+    arrow.classList.toggle("open");
+    content.style.display = content.style.display === "block" ? "none" : "block";
+  });
+});
+
+
+
+
+
+
